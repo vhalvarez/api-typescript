@@ -2,11 +2,6 @@
 
 Una sencilla API utilizando Typescript.
 
-## Installation
-
-```bash
-yarn init
-```
 ## Usage
 
 ```nodejs
